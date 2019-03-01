@@ -34,4 +34,4 @@ Finally you need to setup a google api account. It's free for the first year. We
 # Usage
 call the extension that you set your dialplan to use and it should work. 
 Feel free to donate if you like it:
-paypal.me/foximler
+http://paypal.me/foximler
